@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "imgUrl": "https://icon-library.com/images/programming-language-icon/programming-language-icon-21.jpg",
+      "title": "HTML"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png",
+      "title": "CSS"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://i.pinimg.com/originals/28/b0/d1/28b0d189571e22609f0e9378da7b09a4.png",
+      "title": "JavaScript"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://res.cloudinary.com/practicaldev/image/fetch/s--4NgwRtzZ--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qolw97mcrr9x93wi0tvx.png",
+      "title": "React JS"
+    },
+    {
+      "id": 5,
+      "imgUrl": "http://www.itedge.in/images/blog/angularjs.png",
+      "title": "Angular JS"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png",
+      "title": "Git/Github"
+    }
+  ],
+  "users": [
+    {
+      "name": "chandu",
+      "email": "eswarchandu996@gmail.com",
+      "contact": "8297521254",
+      "course": "Angular JS",
+      "emailErr": "",
+      "titleError": "",
+      "contactErr": "",
+      "id": 1
+    }
+  ]
+}
